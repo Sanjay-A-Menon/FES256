@@ -6,8 +6,8 @@ Have implemented a SHA256 hasher core at present, currently a
 version of the SHA256 cracker is been developed using this core.
 
 ## Introduction
-Hardware implementation of the SHA-256 cryptographic. The implementation 
-is written in C++(Vivado HLS) compliant code.
+Hardware implementation of the SHA-256 cryptographic function. 
+The implementation is written in C++(Vivado HLS) compliant code.
 
 The hardware implementation is complemented by a functional model
 written in Python.
