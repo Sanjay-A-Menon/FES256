@@ -1,0 +1,24 @@
+verilog xil_defaultlib --include "../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/2d50/hdl" --include "../../../../sha256_v3.srcs/sources_1/bd/design_1/ip/design_1_processing_system7_0_3" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/regslice_core.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_add_64ns_6bkb.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_ctx_data.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_ctx_state.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_data.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_final.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_lshr_32ns_cud.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_transform.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_transform_k.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256_transform_m.v" \
+"../../../../sha256_v3.srcs/sources_1/bd/design_1/ipshared/8f03/hdl/verilog/sha256.v" \
+"../../../bd/design_1/ip/design_1_sha256_0_3/sim/design_1_sha256_0_3.v" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_3/sim/design_1_processing_system7_0_3.v" \
+"../../../bd/design_1/ip/design_1_xbar_3/sim/design_1_xbar_3.v" \
+"../../../bd/design_1/ip/design_1_auto_us_0/sim/design_1_auto_us_0.v" \
+"../../../bd/design_1/ip/design_1_auto_us_1/sim/design_1_auto_us_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
