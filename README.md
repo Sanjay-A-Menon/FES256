@@ -19,12 +19,14 @@ The sha256 hasher IP design is divided into the following sections:
 - SHA256_hasher/sha256_tb.cpp - The testbench for simulating the design on HLS.
 - SHA256_hasher/sha256.h - A header which lays an outline for the IP definitions.
 
-The sha256 IP implementation system design is divided into the following sections:-
+The sha256 system design is divided into the following sections:-
 
 - SHA256_hasher_system/archived_project - Contains an archived project with the system design on Vivado 2019.2.
 - SHA256_hasher_system/(all the other remaining folders/files) - The actual folders/files for the system design project.
 
 The block design was synthesized and implemented for a TUL PYNQ-Z2 featuring a Xilinx Zynq XC7Z020-1CLG400C SoC.
+
+- SHA256_PYNQ/sha256_pynq.py - The Python driver for sha256 block design on PYNQ framework v2.5.
 
 ## Fpga-results ##
 
