@@ -35,9 +35,8 @@ Implementation results using Vivado 2019.2.
 **TUL PYNQ-Z2**
 - Utilization Report(Block design)
 
-+----------------------------+------+-------+-----------+-------+
 |          Site Type         | Used | Fixed | Available | Util% |
-+----------------------------+------+-------+-----------+-------+
+|----------------------------|------|-------|-----------|-------|
 | Slice LUTs                 | 5542 |     0 |     53200 | 10.42 |
 |   LUT as Logic             | 5302 |     0 |     53200 |  9.97 |
 |   LUT as Memory            |  240 |     0 |     17400 |  1.38 |
@@ -48,7 +47,6 @@ Implementation results using Vivado 2019.2.
 |   Register as Latch        |    0 |     0 |    106400 |  0.00 |
 | F7 Muxes                   |    0 |     0 |     26600 |  0.00 |
 | F8 Muxes                   |    0 |     0 |     13300 |  0.00 |
-+----------------------------+------+-------+-----------+-------+
 
 - **Fmax** :- 142 MHz
 - Performance in PYNQ framework v2.5 - 1.9 ms for a single hash(upto data size of about 300 characters)
