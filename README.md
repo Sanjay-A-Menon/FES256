@@ -51,7 +51,7 @@ Implementation results using Vivado 2019.2.
 | F8 Muxes                   |    0 |     0 |     13300 |  0.00 |
 
 - **Fmax** :- 142 MHz
-- Performance in PYNQ framework v2.5 - 1.9 ms for a single hash(upto data size of about 300 characters)
+- Performance in PYNQ framework v2.5 - 1.9 ms for a single hash(upto data size of about 600 characters)
 
 ## TODO ##
 - Implement the SHA256 cracker using the above developed hasher core.
